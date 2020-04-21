@@ -1,0 +1,29 @@
+body {
+  background-image:url(file:///Users/shibamototaishi/Pictures/%E5%86%99%E7%9C%9F%20Library.photoslibrary/private/com.apple.Photos/ExternalEditSessions/C7844162-14C8-4B69-BC47-4F9D4C53B055/P3270227.jpeg);
+  background-size: cover;
+  width:0 auto;
+  height: 900px;
+}
+.top-title h1 {
+  text-align: center;
+  position: static;
+  color: white;
+  font-size: 70px;
+  opacity: 0.7;
+  line-height: 60px;
+
+
+}
+.top-title {
+  text-align: center;
+  z-index: 10;
+  position: fixed;
+
+}
+.container {
+  padding-top: 200px;
+  width:800px;
+  margin:0 auto;
+
+
+}
