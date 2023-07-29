@@ -2,7 +2,7 @@ body {
   background-image:url(https://github.com/tai44ba/saishono/blob/master/IMG_0335.PNG?raw=true);
   background-size: cover;
   width:0 auto;
-  height: 900px;
+  height: auto;
 }
 .top-title h1 {
   text-align: center;
@@ -12,7 +12,6 @@ body {
   opacity: 0.7;
   line-height: 60px;
 
-
 }
 .top-title {
   text-align: center;
@@ -21,9 +20,16 @@ body {
 
 }
 .container {
-  padding-top: 200px;
-  width:800px;
+  padding-top: 100px;
+  height: auto;
+  width: 600px;
   margin:0 auto;
 
-
+}
+p {
+  text-align: center;
+  position: static;
+  color: white;
+  font-size: 20px;
+  opacity: 0.7;
 }
