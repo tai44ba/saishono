@@ -1,6 +1,6 @@
 body {
   /*background-image:url(https://github.com/tai44ba/saishono/blob/master/IMG_0335.PNG?raw=true);*/
-  background-image:url(https://github.com/tai44ba/saishono/blob/master/IMG_20200425_151731.jpg?raw=true);
+  background-image:url(file:///Users/taishishibamoto/Desktop/IMG_20200425_151731.jpg);
   background-size: cover;
 } 
 li {
@@ -14,7 +14,7 @@ li {
 }
 .header-logo a {
   font-size: 35px;
-  color: rgb(84, 84, 84);
+  color: rgb(63, 63, 63);
   padding: 10px 50px;
   float: left;
   text-decoration: none;
@@ -62,6 +62,10 @@ h2 {
 }
 a {
   text-align: center;
+  opacity: 0.8;
+}
+a:hover {
+  opacity: 1;
 }
 
 
@@ -124,7 +128,7 @@ input , textarea {
 }
 .footer-logo a {
   font-size: 25px;
-  color: rgb(84, 84, 84);
+  color: rgb(63, 63, 63);
   float: left;
   padding: 20px 55px;
   text-decoration: none;
